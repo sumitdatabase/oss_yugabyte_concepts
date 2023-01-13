@@ -7,5 +7,5 @@ Demo of yugabyted  how the following interact with each other
  - the replication factors
  - the number of tablets
  
- Run the [demo](./demo_oss_concepts.sh) script.
+ Run the [demo](./demo_oss_concepts.sh) script. You will need docker for this.
                   
