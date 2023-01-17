@@ -12,7 +12,7 @@ function pause()
 # Start of setting up the 3 node cluster for several scenarios.
 
 echo "\n In this demo, we will bring up yugabyted different continents across the world - Asia, Eurupe, Africa, America, Australia. As each continent 
-joinst the clister,  we will watch the intraction with number of nodes, tservers, masters, RF factors and what happens to tables created along the way \n"
+joins the clister,  we will watch the intraction with number of nodes, tservers, masters, RF factors and what happens to tables created along the way \n"
 
 pause
 
