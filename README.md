@@ -9,3 +9,4 @@ Demo of yugabyted  how the following interact with each other
  
  Run the [demo](./demo_oss_concepts.sh) script. You will need docker for this.
                   
+ After it's all done, to stop all the containers here is a small [script](./stop_demo_yb_cont.sh) to stop them all.
